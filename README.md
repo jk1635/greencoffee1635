@@ -7,9 +7,10 @@
   <a href="https://github.com/greencoffee1635/github-stats-react-theme">
     <img width="358" src="https://github.com/greencoffee1635/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
   </a>
+  <!--
   <a href="https://activity-graph.herokuapp.com/graph?username=greencoffee1635&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
     <img width="812" src="https://activity-graph.herokuapp.com/graph?username=greencoffee1635&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb" alt="activity-graph" />
-  </a>
+  </a>-->
 </div>
 
 <!--
