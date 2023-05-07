@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div align="left">
-  <a href="https://github-readme-stats.vercel.app/api?username=jk1635&show_icons=true&theme=react&include_all_commits&hide_border=true&line_height=28">
-    <img width="454" height="calc(100% - 8px)" src="https://github-readme-stats.vercel.app/api?username=jk1635&show_icons=true&theme=react&include_all_commits&hide_border=true&line_height=28" alt="jk's-readme-stats" />
+  <a href="https://github-readme-stats.vercel.app/api?username=jk1635&show_icons=true&theme=react&include_all_commits&hide_border=true&line_height=27">
+    <img width="454" src="https://github-readme-stats.vercel.app/api?username=jk1635&show_icons=true&theme=react&include_all_commits&hide_border=true&line_height=27" alt="jk's-readme-stats" />
   </a>
   <a href="https://github.com/jk1635/github-stats-react-theme">
-    <img width="358" src="https://github.com/jk1635/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
+    <img width="350" src="https://github.com/jk1635/github-stats-react-theme/blob/main/generated/languages.svg" alt="most-used-languages" />
   </a>
   <!--
   <a href="https://activity-graph.herokuapp.com/graph?username=jk1635&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb">
